@@ -2,6 +2,6 @@
 
 return array(
 
-    'short_name' => 'local8888' //disqus short_name
+    'short_name' => 'aircaching' //disqus short_name
 
 );
