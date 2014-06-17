@@ -1,5 +1,5 @@
 {
-    "name": "AirCaching/disqus",
+    "name": "aircaching/disqus",
     "description": "Laravel 4 package to embed disqus comment",
     "license": "BSD-2-Clause",
     "keywords": [
